@@ -1,0 +1,23 @@
+sudo apt install geany caja thunar libreoffice galculator pidgin \
+firefox-esr firefox-esr-l10n-es-es chromium \
+abiword audacious transmission-gtk gnumeric  audacity filezilla zenity \
+gimp xterm x11-xserver-utils/stable scrot feh wmctrl xdotool tint2 \
+viewnior plank dzen2 conky-all mate-screensaver arandr lxrandr \
+qt5ct galculator lxappearance-obconf sakura l3afpad/stable dmenu \
+htop xserver-xorg xinit mc
+
+Error: Package 'firefox' has no installation candidate - firefox-esr
+Error: Unable to locate package chrome - chromium
+Error: Unable to locate package midori - DELETE
+Error: Package 'deadbeef' has no installation candidate - audacious
+Error: Unable to locate package lupe - DELETE
+Error: Unable to locate package recorder -DELETE
+Error: Unable to locate package xvidcap -DELETE
+Error: Unable to locate package xrdb - x11-xserver-utils/stable
+Error: Package 'conky' has no installation candidate
+Error: Unable to locate package xlockmore - lxlock/stable
+Error: Unable to locate package powerdxx - DELETE
+Error: Unable to locate package gfontview - DELETE
+Error: Unable to locate package qtconfig - DELETE
+Error: Unable to locate package qtconfig-qt4 - lxappearance-obconf/stable
+Error: Package 'leafpad' has no installation candidate - l3afpad/stable
